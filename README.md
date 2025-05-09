@@ -1,3 +1,3 @@
 # Optimised Data Cleaning
 
-The Project focuses on cleaning the raw dataset using pandas library.
+This project involves cleaning and preprocessing a raw dataset related to Ontario student admissions using the Pandas library.
